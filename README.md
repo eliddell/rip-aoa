@@ -18,14 +18,6 @@ under previous management (I'll fix them if they seem to be easy fixes).
 
 I'm happy to accept merge requests, though.
 
-## Why isn't this in the Pale Moon Add-Ons Repository?
-
-I'm unwilling to guarantee I can maintain this extension over the long term (it's near 
-the bottom of a stack of a dozen or more things in terms of priority, and my health is 
-not great).  The people running the official add-ons repository were understandably 
-uncomfortable with the idea of hosting an add-on that might abruptly end up broken or
-unmaintained.  I figured that an external repository was the best solution for everyone.
-
 ## History of this Add-On
 
 RIP All Over Again was forked from RIP Advanced in May 2021.
