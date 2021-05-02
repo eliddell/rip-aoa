@@ -18,7 +18,7 @@
     <em:contributor>eliddell - Pale Moon fork of the original RIP</em:contributor>
     
     <em:description>Permanently hide items from the Context Menu</em:description>
-    <em:homepageURL>http://rip.mozdev.org/</em:homepageURL>
+    <em:homepageURL>https://github.com/eliddell/rip-aoa</em:homepageURL>
     <em:iconURL>chrome://rip/skin/rip.png</em:iconURL>
     
     <em:unpack>true</em:unpack>
